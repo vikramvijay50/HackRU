@@ -1,0 +1,8 @@
+Content-Type: application/json
+{
+  "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+  "updateDate": "2019-10-19T00:00:00.0Z",
+  "titleText": "Prudential General Information",
+  "mainText": "Prudential is a Life insurance, Retirement, and Investments company.",
+  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+}
